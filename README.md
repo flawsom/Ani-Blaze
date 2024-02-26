@@ -1,9 +1,9 @@
 <div align="center">
-  <a href="https://aniplaynow.live" target="_blank">
-    <img src="https://github.com/Luckyhv/aniplay/blob/c39875dc6e1bc2db9d8371574a9ab3ed95ff3b93/public/icon-512x512.png" alt="Logo" width="140" height="140">
+  <a href="https://aniblaze.vercel.app" target="_blank">
+    <img src="https://github.com/flawsom/Ani-Blaze/blob/c39875dc6e1bc2db9d8371574a9ab3ed95ff3b93/public/icon-512x512.png" alt="Logo" width="140" height="140">
   </a>
 
-  <h2 align="center">Aniplay</h3>
+  <h2 align="center">Aniblaze</h3>
 
   <p align="center">
     An open-source Anime streaming site built with Nextjs 14
@@ -48,7 +48,7 @@ Enjoy ad-free streaming and seamless progress tracking with AniList integration,
     - [ ] Mangadex
     - [ ] And some more
 
-See the [open issues](https://github.com/Luckyhv/aniplay/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/flawsom/Ani-Blaze/issues) for a full list of proposed features (and known issues).
 
 
 ## Environment Variables
@@ -91,12 +91,12 @@ NEXT_PUBLIC_PRODUCTION_URL="Your deployement URL. Don't put / at the end of the 
 
 Clone the project
 ```bash
-  git clone https://github.com/Luckyhv/aniplay.git
+  git clone https://github.com/flawsom/Ani-Blaze.git
 ```
 
 Go to the project directory
 ```bash
-  cd aniplay
+  cd Aniblaze
 ```
 
 Install dependencies
@@ -127,7 +127,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- CONTACT -->
 ## Contact
 
-Project Link: [https://github.com/Luckyhv/aniplay](https://github.com/Luckyhv/aniplay)
+Project Link: [https://github.com/flawsom/Ani-Blaze](https://github.com/flawsom/Ani-Blaze)
 
 Discord Server: [https://discord.gg/aW5P4W94ZS](https://discord.gg/aW5P4W94ZS)
 
